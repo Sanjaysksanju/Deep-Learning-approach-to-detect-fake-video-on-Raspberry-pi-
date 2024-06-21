@@ -35,7 +35,8 @@ Deepfake_detection_using_deep_learning
    
 ## 3. System Architecture
 <p align="center">
-  <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/System%20Architecture.png" />
+![image](https://github.com/Sanjaysksanju/Deep-Learning-approach-to-detect-fake-video-on-Raspberry-pi-/assets/133668271/1a246816-d6ba-4a99-b1de-b8f315fa6eec)
+
 </p>
 
 ## 4. Demo 
