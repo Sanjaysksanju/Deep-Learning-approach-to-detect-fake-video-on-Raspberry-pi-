@@ -34,10 +34,7 @@ Deepfake_detection_using_deep_learning
    - This directory consists of all the documentation done during the project
    
 ## 3. System Architecture
-<p align="center">
 ![image](https://github.com/Sanjaysksanju/Deep-Learning-approach-to-detect-fake-video-on-Raspberry-pi-/assets/133668271/1a246816-d6ba-4a99-b1de-b8f315fa6eec)
-
-</p>
 
 ## 4. Demo 
 ### You can watch the [youtube video](https://www.youtube.com/watch?v=_q16aJTXVRE&t=823s) for demo
