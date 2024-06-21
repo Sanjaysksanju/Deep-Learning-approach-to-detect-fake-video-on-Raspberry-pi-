@@ -163,4 +163,4 @@ Please note that currently we have only pushed the image of 20 Frames model, If 
 <p align="center">
   <img src="https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/blob/master/github_assets/fakegif.gif" />
 </p>  
-
+file:///C:/Users/Dell/Downloads/paper%20ID%20%20IJRASET60781%20.pdf
